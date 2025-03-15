@@ -1,0 +1,9 @@
+
+*{
+  font-family: 'Popping';
+}
+
+@font-face {
+  font-family: 'Popping';
+  src: url(./fuentes//Poppins-Light.ttf);
+}
